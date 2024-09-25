@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi Everyone
+Welcome to ciomunity coding to Kopico 
+
+### The organisation codeng to Laravel 2, Web 3 Development
+
+##### The Onwer 
+  - @adnanzainal21
+  - @ckvxa
+  - @Zxcode
+
+### The dream project
+hw[opp]
 
 <!--
 
